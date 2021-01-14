@@ -5,8 +5,4 @@ function setup() {
 function draw() {
 background(220); 
 ellipse(width/2, height/2, 20,20);
-ellipse(width/2, height/2, 20,20);
-ellipse(width/2, height/2, 20,20);
-ellipse(width/2, height/2, 20,20);
-ellipse(width/2, height/2, 20,20);
 }
